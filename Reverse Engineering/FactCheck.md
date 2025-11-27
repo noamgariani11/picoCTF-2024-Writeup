@@ -7,6 +7,8 @@ workings?
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-factcheck).
+
 `wget https://artifacts.picoctf.net/c_titan/187/bin`
 
 Initially, it could be put into [Ghidra](https://ghidra-sre.org/) and analyzed.

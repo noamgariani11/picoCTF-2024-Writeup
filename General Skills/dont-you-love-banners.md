@@ -11,6 +11,8 @@ directory.
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-dont-you-love-banners).
+
 The password could be seen by connecting to the server that has been leaking information with this command: `nc tethys.picoctf.net 57125`
 
 Output: `SSH-2.0-OpenSSH_7.6p1 My_Passw@rd_@1234`

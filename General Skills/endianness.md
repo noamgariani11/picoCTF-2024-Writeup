@@ -5,6 +5,8 @@ nc titan.picoctf.net 61087. Source
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-endianness).
+
 First connect to the server: `nc titan.picoctf.net 61087`
 
 Then you are given a word, in this case, "ffoxf". By using [CyberChef](https://gchq.github.io/CyberChef/#recipe=To_Hex('None',0)), convert the word to hex. This should give you the Big Endian representation of the word.

@@ -5,6 +5,8 @@ Download the file here.
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-interencdec).
+
 To get the file: `wget https://artifacts.picoctf.net/c_titan/3/enc_flag`
 
 By using `cat enc_flag` command you get this encoded text: `YidkM0JxZGtwQlRYdHFhR3g2YUhsZmF6TnFlVGwzWVROclgya3lNRFJvYTJvMmZRPT0nCg==`

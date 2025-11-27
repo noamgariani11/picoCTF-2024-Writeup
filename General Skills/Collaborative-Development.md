@@ -9,6 +9,8 @@ You can download the challenge files here:
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-collaborative-development).
+
 To get the file: `wget https://artifacts.picoctf.net/c_titan/71/challenge.zip`. Then `unzip challenge.zip` and `cd drop-in/`.
 
 With `git branch -a` all the current branches could be seen. There are three feature branches and each one has a part of the flag. You could go to each one and retrieve the flags or you could merge them all to main and deal with the merge conflicts. This is a command that prints all feature branches at once:

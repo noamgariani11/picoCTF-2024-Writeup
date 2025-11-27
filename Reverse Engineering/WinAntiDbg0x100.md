@@ -16,6 +16,8 @@ with the password picoctf
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-winantidbg0x100).
+
 First, get the file with this command: `wget https://artifacts.picoctf.net/c_titan/84/WinAntiDbg0x100.zip`
 
 Download [x64dbg](https://x64dbg.com/) to debug the exe. Then after unzipping the WinAntiDbg0x100.zip with `picoctf` as the password load the WinAntiDbg0x100.exe file into x96dbg.exe when running. If you run it as 64 bit it will say to run as 32 bit.

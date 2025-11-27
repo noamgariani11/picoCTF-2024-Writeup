@@ -18,6 +18,8 @@ in a shell, passwords are hidden! <br>
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-verify).
+
 To get the file: `wget https://artifacts.picoctf.net/c_rhea/12/challenge.zip`, then `unzip challenge.zip`. Note: The files are also accessible with the provided ssh in the description. Use `cd home/ctf-player/drop-in` to get to the files.
 
 When you use `ls` three things can be seen: checksum.txt, decrypt.sh, and a files directory. With `cat checksum.txt` the SHA256 hash of the real thing could be seen. In the files directory, there are 301 files with 8 8-character randomized names all with different checksums and contents. Lastly, decrypt.sh is the script provided that could be used on the correct file to get the flag.

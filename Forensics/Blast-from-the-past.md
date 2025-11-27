@@ -19,6 +19,8 @@ Check your modified picture here: <br>
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-blast-from-the-past).
+
 To get the file: `wget https://artifacts.picoctf.net/c_mimas/91/original.jpg` then `mv original.jpg original_modified.jpg`.
 
 `exiftool -AllDates='1970:01:01 00:00:00.001' original_modified.jpg`

@@ -8,6 +8,8 @@ Access the server using nc titan.picoctf.net 56916
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-classic-crackme-0x100).
+
 To download the binary run this command: `wget https://artifacts.picoctf.net/c_titan/83/crackme100`
 
 When putting into Ghidra this is the main function:

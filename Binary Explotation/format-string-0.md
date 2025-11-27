@@ -8,6 +8,8 @@ nc mimas.picoctf.net 55122
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-format-string-0).
+
 Use, `nc mimas.picoctf.net 55122`, to connect. Once connected it gives three options to choose from:
 
 `Breakf@st_Burger, Gr%114d_Cheese, Bac0n_D3luxe`

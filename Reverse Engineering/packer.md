@@ -5,6 +5,8 @@ binary
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-packer).
+
 To get the file: `wget https://artifacts.picoctf.net/c_titan/22/out`
 
 By looking at the strings with `strings out` it can be seen that it was compressed with upx. It could be decompressed with `upx -d out`. By looking at the hint you could use strip to reduce the size of a binary `strip out`.

@@ -9,6 +9,8 @@ Use password: 6dd28e9b
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-sansalpha).
+
 This is a challenge of trial and error and could be solved in many different ways. The hint says "Where can you get some letters?" so initially looked for letters that recreate the path `/usr/bin/cat` which could be used to run the file.
 
 Initialized a variable to give command not found: ``` _1=`$ 2>&1` ```. Now when running it with this ``` `"$_1"` ``` this output could be seen:

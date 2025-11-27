@@ -9,6 +9,8 @@ nc tethys.picoctf.net 52981
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-heap-3).
+
 For testing the binary and source file could be retrieved with this command: `wget https://artifacts.picoctf.net/c_tethys/6/chall https://artifacts.picoctf.net/c_tethys/6/chall.c`
 
 To connect use this command: `nc tethys.picoctf.net 52981`

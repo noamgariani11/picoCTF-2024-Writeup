@@ -7,6 +7,8 @@ uncover a secret phrase from it. Can you assist?
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-weirdsnake).
+
 To get the Python bytecode file: `wget https://artifacts.picoctf.net/c_titan/31/snake`
 
 The first section in the byte code contains many `LOAD_CONST` calls which creates the `input_list` as seen in the bytecode. Sections 2 through 6 cover the `key_str` variable which can be a bit tricky.

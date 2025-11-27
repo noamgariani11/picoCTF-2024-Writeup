@@ -8,6 +8,8 @@ might be good to analyze and get the flag.
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-custom-encryption).
+
 To get the files: `wget https://artifacts.picoctf.net/c_titan/18/enc_flag https://artifacts.picoctf.net/c_titan/18/custom_encryption.py`
 
 Here was the script to get the flag:

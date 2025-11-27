@@ -8,6 +8,8 @@ nc tethys.picoctf.net 58412
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-heap-0).
+
 Connect with this command: `nc tethys.picoctf.net 58412`
 
 These are the given options:

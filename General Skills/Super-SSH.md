@@ -13,6 +13,8 @@ https://primer.picoctf.com/#_the_shell
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-super-ssh).
+
 To get the flag ssh into the shell with this command:
 
 `ssh ctf-player@titan.picoctf.net -p 65080`

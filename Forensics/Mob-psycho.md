@@ -5,6 +5,8 @@ Download the android apk here.
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-mob-psycho).
+
 To get the file: `wget https://artifacts.picoctf.net/c_titan/53/mobpsycho.apk`, then `unzip mobpsycho.apk`. Note: Be sure to be the folder you want all the files to be located. 
 
 It gives a lot of files to look through so by using various common search terms like ctf, pico, and flag this command showed something useful `strings * | grep flag`. It shows `res/color/flag.txt` near the end of the output.

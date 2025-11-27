@@ -2,6 +2,12 @@
 
 Currently working on completing the picoCTF 2024 writeup for all of the challenges.
 
+[picoCTF 2024 solutions](https://picoctfsolutions.com/events/picoctf-2024) are all searchable and easy to explore step-by-step writeups and use the built-in tools developed to better walk through the challenges and understand each concept.
+
+Here is the website: https://picoctfsolutions.com/
+
+The website is actively in development so feel free to give feedback [here](https://docs.google.com/forms/d/e/1FAIpQLSc_DXyg2bszuvBeDMHVbMMT_dd7UXHIUme-fbzmQ7rLEaoEjA/viewform).
+
 # Web Exploitation
 
 * [Bookmarklet](https://github.com/noamgariani11/picoCTF-2024-Writeup/blob/main/Web%20Exploitation/Bookmarklet.md) 

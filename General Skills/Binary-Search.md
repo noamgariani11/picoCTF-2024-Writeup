@@ -21,6 +21,10 @@ in a shell, passwords are hidden!
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-binary-search). It also has a dedicated [Binary Search Tree tool](https://picoctfsolutions.com/tools/binary-search-tree) that walks you through the challenge visually.
+
+The `challenege.zip` contains [guessing_game.sh](https://picoctfsolutions.com/picoctf-2024-binary-search/guessing_game.sh) which shows how the game works once you connect via SSH.
+
 SSH into the challenge based on the instructions in the description. 
 
 Welcome to the Binary Search Game! <br>

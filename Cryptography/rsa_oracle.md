@@ -13,6 +13,8 @@ anything except the password.
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-rsa_oracle).
+
 First download the files with this command: `wget https://artifacts.picoctf.net/c_titan/148/secret.enc https://artifacts.picoctf.net/c_titan/148/password.enc`
 
 Followed this process: https://crypto.stackexchange.com/questions/2323/how-does-a-chosen-plaintext-attack-on-rsa-work/2331#2331

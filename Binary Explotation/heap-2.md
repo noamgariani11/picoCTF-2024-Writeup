@@ -8,6 +8,8 @@ nc mimas.picoctf.net 49262
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-heap-2).
+
 Start with getting the binary and source file with this command: `wget https://artifacts.picoctf.net/c_mimas/51/chall https://artifacts.picoctf.net/c_mimas/51/chall.c`
 
 From the source file, it can be seen that getting to the win function is the goal. By running `objdump -D chall | less` and searching with `/win` the win function could be seen to have this address: `00000000004011a0`

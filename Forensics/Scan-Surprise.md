@@ -14,6 +14,8 @@ in a shell, passwords are hidden!
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-scan-surprise).
+
 To get the file: `wget https://artifacts.picoctf.net/c_atlas/3/challenge.zip`, then `unzip challenge.zip`. Note: The files are also accessible with the provided ssh in the description. Use `cd home/ctf-player/drop-in` to get to `flag.png`.
 
 Once there you can open the image and use a phone to scan the QR code and get the flag. Although it could also be done in Linux with zbar-tools.

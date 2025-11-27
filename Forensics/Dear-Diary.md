@@ -6,6 +6,8 @@ Download the disk image here.
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-dear-diary).
+
 `wget https://artifacts.picoctf.net/c_titan/63/disk.flag.img.gz`, then `gunzip -d disk.flag.img.gz`.
 
 Then put the disk image in Autopsy and load it in with analysis. Once loaded in the root directory has three files: `force-wait.sh`, `innocuous-file.txt`, and `its-all-in-the-name`.

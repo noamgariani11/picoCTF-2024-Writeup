@@ -10,6 +10,8 @@ Download the suspicious file here.
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-secret-of-the-polyglot).
+
 To get the file: `wget https://artifacts.picoctf.net/c_titan/9/flag2of2-final.pdf`
 
 First, open it as a pdf to get the 2nd part of the flag. Through the command line, it could be done with `pdftotext` command.

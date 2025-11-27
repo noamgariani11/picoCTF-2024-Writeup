@@ -11,6 +11,8 @@ nc mimas.picoctf.net 57322
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-format-string-1).
+
 Can connect via this command: `nc mimas.picoctf.net 57322`
 
 This payload of many `%p` values with commas could be sent to get the relevant values.

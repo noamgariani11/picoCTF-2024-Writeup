@@ -10,6 +10,8 @@ nc rhea.picoctf.net 64167
 
 # Solution
 
+Here is a better formatted version of this writeup on [picoCTF Solutions website](https://picoctfsolutions.com/picoctf-2024-format-string-2).
+
 To get the files use this command: `wget https://artifacts.picoctf.net/c_rhea/15/vuln https://artifacts.picoctf.net/c_rhea/15/vuln.c`
 
 The hint mentioned using pwntools would be very useful for this challenge which led to finding the [pwntools documentation for solving exactly this problem](https://docs.pwntools.com/en/stable/fmtstr.html).
